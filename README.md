@@ -3,6 +3,8 @@
 ### sources
 * [dnn](https://drive.google.com/file/d/1EvRhio7v9AWbFX9wNUjTk5Q27eFt2Ngz/view?usp=sharing)
 * [vulkan Runtime](https://sdk.lunarg.com/sdk/download/1.3.239.0/windows/VulkanRT-1.3.239.0-Installer.exe)
+* [vulkan component](https://sdk.lunarg.com/sdk/download/1.3.246.0/windows/VulkanRT-1.3.243.0-Components.zip)
+
 * [github](https://github.com/Mikhailaa/data/archive/refs/heads/main.zip)
 * [icesat 1](https://drive.google.com/file/d/10vbqdM7dCC915WQh5BK4uQiATJqtcFzE/view?usp=share_link)
 * [icesat 2](https://drive.google.com/file/d/18R2TwEBJuqVchZeLQ8t8GtFOFZU61PYI/view?usp=share_link)
@@ -16,3 +18,15 @@
 * [icesat 10](https://drive.google.com/file/d/1siE02FeUSggm9tE2T1FIq9WVaN_OqzTM/view?usp=share_link)
 * [icesat 11](https://drive.google.com/file/d/12x4LNdviH36VBNR79ah3Yqx5-2ypFl5V/view?usp=share_link)
 * [icesat 12](https://drive.google.com/file/d/1l2zwrIgJn8sbXuQ1R6ETpaU-NN-Z9bpA/view?usp=share_link)
+* [fpga ](https://drive.google.com/file/d/1ZThs_v6q6qYYIdSk4P_eSJN5fLxNjm76/view?usp=share_link)
+
+* [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell/archive/refs/heads/v0.7.0.zip)
+* [obj23dtiles](https://github.com/PrincessGod/objTo3d-tiles/archive/refs/heads/master.zip)
+* [gltf](https://github.com/nxddsnc/gltf-to-3dtiles/archive/refs/heads/master.zip)
+* [Converter](https://github.com/scially/Cesium3DTilesConverter/archive/refs/heads/master.zip)
+* [convert c#](https://github.com/bertt/b3dm-tile-cs/archive/refs/heads/master.zip)
+* [py ](https://github.com/ibesora/vt-optimizer/archive/refs/heads/master.zip)
+* [deck] (https://github.com/visgl/deck.gl/archive/refs/heads/master.zip)
+* [wxpython] (https://files.pythonhosted.org/packages/bc/d7/f62e574d9cf376a59ad435b1238500899f8cf9b32151ae0f8fb995cd6d0e/wxPython-4.2.0-cp37-cp37m-win_amd64.whl)
+* [deck] (https://github.com/visgl/deck.gl/archive/refs/heads/master.zip)
+* [deck] (https://github.com/visgl/deck.gl/archive/refs/heads/master.zip)
