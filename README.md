@@ -1,7 +1,7 @@
 
 
 ### sources
-* [dnn](https://drive.google.com/file/d/1EvRhio7v9AWbFX9wNUjTk5Q27eFt2Ngz/view?usp=sharing)
+
 * [vulkan Runtime](https://sdk.lunarg.com/sdk/download/1.3.239.0/windows/VulkanRT-1.3.239.0-Installer.exe)
 * [vulkan component](https://sdk.lunarg.com/sdk/download/1.3.246.0/windows/VulkanRT-1.3.243.0-Components.zip)
 
@@ -18,5 +18,7 @@
 * [icesat 10](https://drive.google.com/file/d/1siE02FeUSggm9tE2T1FIq9WVaN_OqzTM/view?usp=share_link)
 * [icesat 11](https://drive.google.com/file/d/12x4LNdviH36VBNR79ah3Yqx5-2ypFl5V/view?usp=share_link)
 * [icesat 12](https://drive.google.com/file/d/1l2zwrIgJn8sbXuQ1R6ETpaU-NN-Z9bpA/view?usp=share_link)
+* [dnn ](https://drive.google.com/file/d/1EvRhio7v9AWbFX9wNUjTk5Q27eFt2Ngz/view?usp=sharing)
 * [fpga ](https://drive.google.com/file/d/1ZThs_v6q6qYYIdSk4P_eSJN5fLxNjm76/view?usp=share_link)
+* [stereo ](https://drive.google.com/file/d/1sh-E69fzuxcrOKNlqJAEzcapl-APRGzn/view?usp=share_link)
 
