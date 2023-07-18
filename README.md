@@ -1,11 +1,13 @@
 
 ### sources
+* [super 1](https://drive.google.com/file/d/1n02XqOz0nlO9FyivtpdOoUdw5mqMk1E4/view?usp=sharing) 
+* [super 2](https://drive.google.com/file/d/1sjrDIgcLAhRXj6EoTd4FZSl-sm18ZlbN/view?usp=sharing) 
+* [EDSR](https://github.com/Saafke/EDSR_Tensorflow/archive/refs/heads/master.zip) 
+* [train](https://drive.google.com/file/d/1QvsQMQ22o2BuD6CttVRchV6DtFsECT08/view?usp=sharing) 
+* [ 4.3 contrib ](https://files.pythonhosted.org/packages/dd/d6/f5a977230cce89222bbfd7df18ceca2f0bc323b18e8b9c2832fcb19121e9/opencv_contrib_python-4.3.0.38-cp37-cp37m-win_amd64.whl)
+* [ 4.1 contrib ](https://files.pythonhosted.org/packages/cc/ea/ea342b15c152fb862aeabb02402a0893199a59de821f3347a5fe9bfa2791/opencv_contrib_python-4.1.0.25-cp37-cp37m-win_amd64.whl)
+* [cmake 3-21](https://cmake.org/files/v3.21/cmake-3.21.2-windows-x86_64.msi) 
 
-* [fpga 1](https://drive.google.com/file/d/1RUGGbFqeTJ5korY250hCOSUkqG2phMXx/view?usp=sharing)
-* [fpga 2](https://drive.google.com/file/d/1VMOuCarm-vhzAzgdL7Tci4t6qKuqq3RM/view?usp=sharing)
-* [fpga 3](https://drive.google.com/file/d/1tTllDwRgET-U3giKCvO4i2GrW0jcv-0h/view?usp=sharing)
-* [icesat ](https://drive.google.com/file/d/1O4sGS5XM34J5vySYhggEoEwPPQukEWeL/view?usp=sharing)
-* [sources](https://drive.google.com/file/d/1FaMQOhIIh4r5Zx4Mxb4x3pdmHaViWz0g/view?usp=sharing)
 
 
 
